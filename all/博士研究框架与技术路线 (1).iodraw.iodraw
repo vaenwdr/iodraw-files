@@ -2480,7 +2480,7 @@
           <mxGeometry x="37" y="-1905.0537897310514" width="125" height="52.06356968215159" as="geometry" />
         </mxCell>
         <mxCell id="OYGaSbamNH0MvDA6B1YH-150" value="提出问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="37" y="-1846.7921760391198" width="125" height="24.792176039119806" as="geometry" />
+          <mxGeometry x="37" y="-1846.79" width="254" height="24.79" as="geometry" />
         </mxCell>
         <mxCell id="OYGaSbamNH0MvDA6B1YH-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" source="OYGaSbamNH0MvDA6B1YH-152" target="OYGaSbamNH0MvDA6B1YH-156" parent="1">
           <mxGeometry relative="1" as="geometry">
