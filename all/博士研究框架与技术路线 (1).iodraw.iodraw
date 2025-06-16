@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram id="Q0DbVZU_VQKNT2G1ub-v" name="第 1 页">
-    <mxGraphModel dx="2144" dy="3060" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2748" dy="3391" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1939,10 +1939,10 @@
           <mxGeometry x="797" y="-2267.6393643031784" width="149" height="326.6369193154035" as="geometry" />
         </mxCell>
         <mxCell id="OYGaSbamNH0MvDA6B1YH-10" value="三大内容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-148" y="-2329" width="92" height="24.792176039119806" as="geometry" />
+          <mxGeometry x="-59" y="-2329" width="92" height="24.792176039119806" as="geometry" />
         </mxCell>
         <mxCell id="OYGaSbamNH0MvDA6B1YH-11" value="四大板块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-148" y="-2298.0097799511004" width="92" height="24.792176039119806" as="geometry" />
+          <mxGeometry x="-59" y="-2298.0097799511004" width="92" height="24.792176039119806" as="geometry" />
         </mxCell>
         <mxCell id="OYGaSbamNH0MvDA6B1YH-12" value="空间优先级识别" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="295.5" y="-2329" width="496.5" height="24.792176039119806" as="geometry" />
@@ -1963,7 +1963,7 @@
           <mxGeometry x="797" y="-2298.0097799511004" width="148" height="24.792176039119806" as="geometry" />
         </mxCell>
         <mxCell id="OYGaSbamNH0MvDA6B1YH-18" value="核心章节" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-148" y="-1934.804400977995" width="92" height="81.81418092909536" as="geometry" />
+          <mxGeometry x="-59" y="-1934.804400977995" width="92" height="81.81418092909536" as="geometry" />
         </mxCell>
         <mxCell id="OYGaSbamNH0MvDA6B1YH-19" value="第四章" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontFamily=宋体;fontSize=14;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="296.75" y="-1934.804400977995" width="166.25" height="25.15166259168704" as="geometry" />
@@ -1981,7 +1981,7 @@
           <mxGeometry x="297" y="-1905.0537897310514" width="166" height="52.06356968215159" as="geometry" />
         </mxCell>
         <mxCell id="OYGaSbamNH0MvDA6B1YH-24" value="研究步骤" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-148" y="-2267.0195599022004" width="92" height="326.0171149144254" as="geometry" />
+          <mxGeometry x="-59" y="-2267.0195599022004" width="92" height="326.0171149144254" as="geometry" />
         </mxCell>
         <mxCell id="OYGaSbamNH0MvDA6B1YH-25" value="潜在廊道" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="399" y="-2033.9731051344743" width="54" height="23.552567237163814" as="geometry" />
@@ -2435,7 +2435,7 @@
           <mxGeometry x="798" y="-1846.7921760391198" width="149" height="24.792176039119806" as="geometry" />
         </mxCell>
         <mxCell id="OYGaSbamNH0MvDA6B1YH-119" value="研究思路" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-148" y="-1846.7921760391198" width="92" height="24.792176039119806" as="geometry" />
+          <mxGeometry x="-59" y="-1846.7921760391198" width="92" height="24.792176039119806" as="geometry" />
         </mxCell>
         <mxCell id="OYGaSbamNH0MvDA6B1YH-120" value="供给结构修复优先级" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="306" y="-1991.8679706601467" width="147" height="23.552567237163814" as="geometry" />
