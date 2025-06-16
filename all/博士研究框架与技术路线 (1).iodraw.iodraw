@@ -2343,11 +2343,8 @@
         <mxCell id="OYGaSbamNH0MvDA6B1YH-115" value="&lt;span style=&quot;font-size: 14px&quot;&gt;西安绿色空间演进特征与问题分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="166" y="-1905.0537897310514" width="125" height="52.06356968215159" as="geometry" />
         </mxCell>
-        <mxCell id="OYGaSbamNH0MvDA6B1YH-116" value="提出问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="166" y="-1846.7921760391198" width="125" height="24.792176039119806" as="geometry" />
-        </mxCell>
         <mxCell id="OYGaSbamNH0MvDA6B1YH-117" value="分析问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="297" y="-1846.7921760391198" width="496" height="24.792176039119806" as="geometry" />
+          <mxGeometry x="297" y="-1846.79" width="338" height="24.79" as="geometry" />
         </mxCell>
         <mxCell id="OYGaSbamNH0MvDA6B1YH-118" value="解决问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="798" y="-1846.7921760391198" width="149" height="24.792176039119806" as="geometry" />
