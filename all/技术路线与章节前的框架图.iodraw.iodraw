@@ -31,7 +31,7 @@
         <mxCell id="ysbMEy50b4-68GegvvOf-7" value="ui" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;fontFamily=宋体;fontSize=14;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="661" y="111.36063569682165" width="149" height="326.6369193154035" as="geometry" />
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-8" value="两个板块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ysbMEy50b4-68GegvvOf-8" value="两大板块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="90" y="50" width="92" height="24.792176039119806" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-9" value="四个模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
@@ -429,15 +429,6 @@
         <mxCell id="ysbMEy50b4-68GegvvOf-95" value="&lt;span style=&quot;font-size: 14px&quot;&gt;西安绿色空间演进特征与问题分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="187" y="473.94621026894856" width="125" height="52.06356968215159" as="geometry" />
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-96" value="分析问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="318" y="532.21" width="338" height="24.79" as="geometry" />
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-97" value="解决问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="662" y="532.2078239608802" width="149" height="24.792176039119806" as="geometry" />
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-98" value="研究思路" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="532.2078239608802" width="92" height="24.792176039119806" as="geometry" />
-        </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-99" value="供给结构修复优先级" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="327" y="387.13202933985326" width="147" height="23.552567237163814" as="geometry" />
         </mxCell>
@@ -549,9 +540,6 @@
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-122" value="&lt;font style=&quot;font-size: 11px&quot;&gt;深&amp;nbsp; 化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=宋体;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="224" y="385.54999999999995" width="54" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-123" value="提出问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="187" y="532.21" width="125" height="24.79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
