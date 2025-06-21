@@ -431,7 +431,7 @@
         <mxCell id="ysbMEy50b4-68GegvvOf-145" value="典型实证" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="718" y="387.1300000000001" width="104" height="23.55" as="geometry" />
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-147" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ysbMEy50b4-68GegvvOf-147" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="549.5" y="167.85574572127143" width="132.5" height="242.96425427872856" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-46" value="精细化管控方法体系" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="ysbMEy50b4-68GegvvOf-147">
@@ -494,7 +494,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-86" value="双向梯度管控模式" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="ysbMEy50b4-68GegvvOf-147">
+        <mxCell id="ysbMEy50b4-68GegvvOf-86" value="双向梯度管控模式" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#d79b00;fillColor=#FFFFFF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="ysbMEy50b4-68GegvvOf-147">
           <mxGeometry width="132.5" height="23.552567237163814" as="geometry" />
         </mxCell>
       </root>
