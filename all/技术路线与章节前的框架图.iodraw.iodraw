@@ -205,9 +205,6 @@
         <mxCell id="ysbMEy50b4-68GegvvOf-45" value="土地利用" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="255.5" y="118.1784841075796" width="55" height="23.552567237163814" as="geometry" />
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-46" value="精细化管控方法体系" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="549.5" y="213.382053789731" width="132.5" height="23.552567237163814" as="geometry" />
-        </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;基于供需失配风险的调控关键空间识别&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="369.5" y="473.94621026894856" width="166" height="52.06356968215159" as="geometry" />
         </mxCell>
@@ -224,48 +221,6 @@
             <mxPoint as="offset" />
             <mxPoint x="617" y="410.68459657701715" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-51" value="&lt;font style=&quot;font-size: 11px&quot;&gt;详规附加图则&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="564.5" y="389.40999999999997" width="102" height="23.55" as="geometry" />
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-53" target="ysbMEy50b4-68GegvvOf-51">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="575.5" y="327.6723716381416" />
-              <mxPoint x="615.5" y="327.6723716381416" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-53" value="总体规划层级" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="563.5" y="269.1644498777506" width="24" height="85.44623471882643" as="geometry" />
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-46" target="ysbMEy50b4-68GegvvOf-53">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="615.5" y="206.19070904645469" />
-              <mxPoint x="575.5" y="206.19070904645469" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-56" target="ysbMEy50b4-68GegvvOf-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-56" value="详细规划层级" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="603.5" y="269.1644498777506" width="24" height="85.44623471882643" as="geometry" />
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-46" target="ysbMEy50b4-68GegvvOf-56">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-59" target="ysbMEy50b4-68GegvvOf-51">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="652.5" y="327.6723716381416" />
-              <mxPoint x="615.5" y="327.6723716381416" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-59" value="实施支撑层面" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="640.5" y="269.1644498777506" width="24" height="85.44623471882643" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-60" value="热岛风险" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#d6b656;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="381.5" y="176.29134474327657" width="18.25" height="70.40977995110025" as="geometry" />
@@ -319,14 +274,6 @@
         <mxCell id="ysbMEy50b4-68GegvvOf-72" value="协同性" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;fontStyle=1;strokeColor=#d6b656;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="432.5" y="345.2748166259166" width="45" height="23.469926650366748" as="geometry" />
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-46" target="ysbMEy50b4-68GegvvOf-59">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="615.5" y="206.19070904645469" />
-              <mxPoint x="652.5" y="206.19070904645469" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.515;entryY=-0.005;entryDx=0;entryDy=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=10;fontColor=#030303;entryPerimeter=0;endSize=3;startSize=3;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-6" target="ysbMEy50b4-68GegvvOf-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -379,16 +326,6 @@
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-84" value="供需风险调控关键空间" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#d6b656;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="387.21466992665023" width="150" height="23.469926650366748" as="geometry" />
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;exitX=0.499;exitY=1.041;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-86" target="ysbMEy50b4-68GegvvOf-46">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="615.5" y="165.28361858190692" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-86" value="双向梯度管控模式" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="549.5" y="169.99574572127142" width="132.5" height="23.552567237163814" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-88" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Linkage&lt;br&gt;Mapper&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=宋体;fontColor=none;labelBackgroundColor=#D5E8D4;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="325.50007936937027" y="244.61444415895494" as="geometry">
@@ -493,6 +430,72 @@
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-145" value="典型实证" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="718" y="387.1300000000001" width="104" height="23.55" as="geometry" />
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-147" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="549.5" y="127.85574572127143" width="132.5" height="242.96425427872856" as="geometry" />
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-46" value="精细化管控方法体系" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="ysbMEy50b4-68GegvvOf-147">
+          <mxGeometry y="43.386308068459584" width="132.5" height="23.552567237163814" as="geometry" />
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-51" value="&lt;font style=&quot;font-size: 11px&quot;&gt;详规附加图则&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="ysbMEy50b4-68GegvvOf-147">
+          <mxGeometry x="15" y="219.41425427872855" width="102" height="23.55" as="geometry" />
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="ysbMEy50b4-68GegvvOf-147" source="ysbMEy50b4-68GegvvOf-53" target="ysbMEy50b4-68GegvvOf-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="26" y="200.81662591687018" />
+              <mxPoint x="66" y="200.81662591687018" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-53" value="总体规划层级" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="ysbMEy50b4-68GegvvOf-147">
+          <mxGeometry x="14" y="99.16870415647918" width="24" height="85.44623471882643" as="geometry" />
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="ysbMEy50b4-68GegvvOf-147" source="ysbMEy50b4-68GegvvOf-46" target="ysbMEy50b4-68GegvvOf-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="66" y="79.33496332518325" />
+              <mxPoint x="26" y="79.33496332518325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="ysbMEy50b4-68GegvvOf-147" source="ysbMEy50b4-68GegvvOf-56" target="ysbMEy50b4-68GegvvOf-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-56" value="详细规划层级" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="ysbMEy50b4-68GegvvOf-147">
+          <mxGeometry x="54" y="99.16870415647918" width="24" height="85.44623471882643" as="geometry" />
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="ysbMEy50b4-68GegvvOf-147" source="ysbMEy50b4-68GegvvOf-46" target="ysbMEy50b4-68GegvvOf-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="ysbMEy50b4-68GegvvOf-147" source="ysbMEy50b4-68GegvvOf-59" target="ysbMEy50b4-68GegvvOf-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="103" y="200.81662591687018" />
+              <mxPoint x="66" y="200.81662591687018" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-59" value="实施支撑层面" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="ysbMEy50b4-68GegvvOf-147">
+          <mxGeometry x="91" y="99.16870415647918" width="24" height="85.44623471882643" as="geometry" />
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="ysbMEy50b4-68GegvvOf-147" source="ysbMEy50b4-68GegvvOf-46" target="ysbMEy50b4-68GegvvOf-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="66" y="79.33496332518325" />
+              <mxPoint x="103" y="79.33496332518325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;exitX=0.499;exitY=1.041;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ysbMEy50b4-68GegvvOf-147" source="ysbMEy50b4-68GegvvOf-86" target="ysbMEy50b4-68GegvvOf-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="66" y="38.42787286063549" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-86" value="双向梯度管控模式" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="ysbMEy50b4-68GegvvOf-147">
+          <mxGeometry width="132.5" height="23.552567237163814" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
