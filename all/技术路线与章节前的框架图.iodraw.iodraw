@@ -105,8 +105,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="281" y="432" />
-              <mxPoint x="710" y="432" />
-              <mxPoint x="710" y="399" />
+              <mxPoint x="700" y="432" />
+              <mxPoint x="700" y="399" />
             </Array>
             <mxPoint x="617" y="410.68459657701715" as="targetPoint" />
           </mxGeometry>
@@ -223,15 +223,6 @@
             </Array>
             <mxPoint as="offset" />
             <mxPoint x="617" y="410.68459657701715" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-51">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="616.5" y="393.3716381418094" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="616.5" y="393.3716381418094" />
-              <mxPoint x="616.5" y="393.3716381418094" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-51" value="&lt;font style=&quot;font-size: 11px&quot;&gt;详规附加图则&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -398,9 +389,6 @@
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-86" value="双向梯度管控模式" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="549.5" y="126.85574572127143" width="132.5" height="23.552567237163814" as="geometry" />
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-87" value="典型实证" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#d79b00;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="563.5" y="387.1300000000001" width="104" height="23.55" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-88" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Linkage&lt;br&gt;Mapper&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=宋体;fontColor=none;labelBackgroundColor=#D5E8D4;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="325.50007936937027" y="244.61444415895494" as="geometry">
