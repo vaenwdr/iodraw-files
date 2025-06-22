@@ -191,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-62" value="UESs供需失配风险评估" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#d6b656;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="120.61613691931552" width="150" height="23.469926650366748" as="geometry" />
+          <mxGeometry x="377.5" y="118.61613691931552" width="150" height="23.469926650366748" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-63" value="紧迫性" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;fontStyle=1;strokeColor=#d6b656;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="344.2748166259166" width="50" height="23.469926650366748" as="geometry" />
@@ -466,7 +466,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-149" value="介入途径" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#d79b00;fillColor=#FFFFFF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="549.5" y="125.99574572127143" width="132.5" height="23.552567237163814" as="geometry" />
+          <mxGeometry x="549.5" y="119.99574572127143" width="132.5" height="23.552567237163814" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-151" value="单元更新潜力" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#d6b656;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="482" y="301" width="45" height="29.02" as="geometry" />
