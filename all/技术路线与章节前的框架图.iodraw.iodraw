@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Wmg-9bcaKSGIvGGTUIqb">
-    <mxGraphModel dx="316" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="127" dy="164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -604,17 +604,20 @@
             <mxPoint x="93" y="17.008760483391665" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-180" target="ysbMEy50b4-68GegvvOf-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-180" value="圈层分区" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="699" y="139" width="30" height="30" as="geometry" />
+          <mxGeometry x="699" y="138" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-181" value="分类定向" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="733" y="139" width="30" height="30" as="geometry" />
+          <mxGeometry x="733" y="138" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-182" value="分级强度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="768" y="139" width="30" height="30" as="geometry" />
+          <mxGeometry x="768" y="138" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-183" value="优先时序" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="802" y="139" width="30" height="30" as="geometry" />
+          <mxGeometry x="802" y="138" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
