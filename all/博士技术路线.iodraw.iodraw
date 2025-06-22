@@ -714,13 +714,13 @@
           <mxGeometry x="-666.13" y="-46" width="401.25" height="23" as="geometry" />
         </mxCell>
         <mxCell id="2wFMdpjRdueO0DSm4IND-9" value="总体规划层级应用" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#A9C4EB;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-659.88" y="-12" width="50" height="19" as="geometry" />
+          <mxGeometry x="-659.88" y="-12" width="120" height="19" as="geometry" />
         </mxCell>
         <mxCell id="2wFMdpjRdueO0DSm4IND-11" value="典型单元选取与分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#A9C4EB;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="-12" width="50" height="19" as="geometry" />
+          <mxGeometry x="-520" y="-12" width="120" height="19" as="geometry" />
         </mxCell>
         <mxCell id="2wFMdpjRdueO0DSm4IND-12" value="详细规划层级应用" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#A9C4EB;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-355.88" y="-12" width="50" height="19" as="geometry" />
+          <mxGeometry x="-355.88" y="-12" width="120" height="19" as="geometry" />
         </mxCell>
         <mxCell id="2wFMdpjRdueO0DSm4IND-14" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-567.8763636363634" y="-149.5" width="206.32" height="13" as="geometry" />
