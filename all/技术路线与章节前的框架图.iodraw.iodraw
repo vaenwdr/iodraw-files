@@ -605,7 +605,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-180" target="ysbMEy50b4-68GegvvOf-130">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="714" y="180" />
+              <mxPoint x="765" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-180" value="圈层分区" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="699" y="138" width="30" height="30" as="geometry" />
@@ -618,6 +623,9 @@
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-183" value="优先时序" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="802" y="138" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-181" target="ysbMEy50b4-68GegvvOf-130">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
