@@ -561,7 +561,7 @@
             <mxPoint x="-308.88" y="-275.17666666666673" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ctVRBVQJ8XS0dRj1MU18-43" value="需求功能响应优先级" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#d6b656;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="ctVRBVQJ8XS0dRj1MU18-43" value="供需调控关键空间识别" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#d6b656;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-455.88" y="-176.36" width="183" height="18.93" as="geometry" />
         </mxCell>
         <mxCell id="ctVRBVQJ8XS0dRj1MU18-44" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Linkage Mapper&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=宋体;fontColor=none;labelBackgroundColor=#FFFFFF;" parent="1" vertex="1" connectable="0">
