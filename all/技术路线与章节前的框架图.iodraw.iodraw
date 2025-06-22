@@ -86,7 +86,7 @@
           <mxGeometry x="249.5" y="213.6283618581906" width="15" height="99.16870415647922" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-25" value="斑块连通性" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="207.25" y="213.6283618581906" width="15" height="99.16870415647922" as="geometry" />
+          <mxGeometry x="204" y="213.6283618581906" width="15" height="99.16870415647922" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;endSize=3;startSize=3;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-27" target="ysbMEy50b4-68GegvvOf-23">
           <mxGeometry relative="1" as="geometry">
@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-27" value="MSPA分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="146.68948655256736" width="55" height="23.552567237163814" as="geometry" />
+          <mxGeometry x="204.25" y="146.68948655256736" width="55" height="23.552567237163814" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-28" value="N&lt;br&gt;D&lt;br&gt;V&lt;br&gt;I" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="269" y="213.6283618581906" width="15" height="99.16870415647922" as="geometry" />
