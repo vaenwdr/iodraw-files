@@ -83,7 +83,7 @@
           <mxGeometry x="224" y="213.6283618581906" width="15" height="99.16870415647922" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-24" value="生境质量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="243" y="213.6283618581906" width="15" height="99.16870415647922" as="geometry" />
+          <mxGeometry x="241" y="213.6283618581906" width="15" height="99.16870415647922" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-25" value="斑块连通性" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="204" y="213.6283618581906" width="15" height="99.16870415647922" as="geometry" />
@@ -114,12 +114,11 @@
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-30" value="InVEST" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.54;entryY=-0.001;entryDx=0;entryDy=0;strokeWidth=1;fontFamily=宋体;fontSize=8;fontColor=none;exitX=0.75;exitY=1;exitDx=0;exitDy=0;endSize=3;startSize=3;fillColor=#d5e8d4;labelBackgroundColor=#D5E8D4;strokeColor=#828282;entryPerimeter=0;" edge="1" parent="1" target="ysbMEy50b4-68GegvvOf-24">
           <mxGeometry x="-0.4601" relative="1" as="geometry">
-            <mxPoint x="290.25" y="141.7310513447435" as="sourcePoint" />
+            <mxPoint x="288.25" y="141.7310513447435" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="277" y="141.73105134474326" />
-              <mxPoint x="277" y="181.39853300733512" />
-              <mxPoint x="251" y="181.39853300733512" />
-              <mxPoint x="251" y="213.6283618581906" />
+              <mxPoint x="281" y="142" />
+              <mxPoint x="281" y="181" />
+              <mxPoint x="249" y="181" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
