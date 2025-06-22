@@ -589,12 +589,11 @@
             <mxPoint x="765" y="321.79999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;exitX=0.592;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="ysbMEy50b4-68GegvvOf-141" parent="1">
+        <mxCell id="ysbMEy50b4-68GegvvOf-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;exitX=0.586;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="ysbMEy50b4-68GegvvOf-141" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="815" y="291" />
-              <mxPoint x="815" y="291" />
-              <mxPoint x="815" y="301" />
+              <mxPoint x="820" y="287" />
+              <mxPoint x="820" y="301" />
               <mxPoint x="765" y="301" />
             </Array>
             <mxPoint x="802" y="287.0006845965769" as="sourcePoint" />
