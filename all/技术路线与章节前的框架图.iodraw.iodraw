@@ -490,10 +490,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;endSize=3;startSize=3;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-25" target="ysbMEy50b4-68GegvvOf-35">
+        <mxCell id="ysbMEy50b4-68GegvvOf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;endSize=3;startSize=3;exitX=0.551;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-25" target="ysbMEy50b4-68GegvvOf-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="214" y="277" />
+              <mxPoint x="210" y="267" />
+              <mxPoint x="210" y="277" />
               <mxPoint x="246" y="277" />
             </Array>
           </mxGeometry>
