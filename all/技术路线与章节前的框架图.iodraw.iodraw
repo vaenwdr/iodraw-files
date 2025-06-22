@@ -128,11 +128,7 @@
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.294;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-35" target="ysbMEy50b4-68GegvvOf-99">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="237" y="334" />
-              <mxPoint x="240" y="334" />
-              <mxPoint x="240" y="355" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-35" value="核心斑块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
