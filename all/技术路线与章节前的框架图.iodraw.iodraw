@@ -118,8 +118,8 @@
         <mxCell id="ysbMEy50b4-68GegvvOf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=-0.01;entryDx=0;entryDy=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;endSize=3;startSize=3;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-32" target="ysbMEy50b4-68GegvvOf-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="332" y="270" />
-              <mxPoint x="320" y="270" />
+              <mxPoint x="332" y="280" />
+              <mxPoint x="320" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
