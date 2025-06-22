@@ -307,7 +307,7 @@
             <mxPoint x="5.81" y="-1.8699999999999999" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-99" target="ysbMEy50b4-68GegvvOf-153">
+        <mxCell id="ysbMEy50b4-68GegvvOf-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#888888;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-99" target="ysbMEy50b4-68GegvvOf-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-99" value="网络分级" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -533,10 +533,10 @@
         <mxCell id="ysbMEy50b4-68GegvvOf-156" value="建设潜力" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="307" y="340" width="50" height="23.55" as="geometry" />
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-155" target="ysbMEy50b4-68GegvvOf-153">
+        <mxCell id="ysbMEy50b4-68GegvvOf-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#888888;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-155" target="ysbMEy50b4-68GegvvOf-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=0.084;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-156" target="ysbMEy50b4-68GegvvOf-153">
+        <mxCell id="ysbMEy50b4-68GegvvOf-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=0.084;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#888888;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-156" target="ysbMEy50b4-68GegvvOf-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
