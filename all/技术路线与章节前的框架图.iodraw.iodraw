@@ -592,9 +592,10 @@
         <mxCell id="ysbMEy50b4-68GegvvOf-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="ysbMEy50b4-68GegvvOf-141" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="820" y="296" />
-              <mxPoint x="820" y="312" />
-              <mxPoint x="770" y="312" />
+              <mxPoint x="816" y="300" />
+              <mxPoint x="820" y="300" />
+              <mxPoint x="820" y="310" />
+              <mxPoint x="770" y="310" />
             </Array>
             <mxPoint x="807" y="296.0006845965769" as="sourcePoint" />
             <mxPoint x="770.1199999999999" y="330.37609999999995" as="targetPoint" />
