@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Wmg-9bcaKSGIvGGTUIqb">
-    <mxGraphModel dx="223" dy="121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="186" dy="101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -470,42 +470,39 @@
         <mxCell id="ysbMEy50b4-68GegvvOf-153" value="供给结构修复关键空间" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="203" y="394" width="155" height="23.55" as="geometry" />
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-154" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="214" y="277" width="60" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.505;entryY=0.006;entryDx=0;entryDy=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;entryPerimeter=0;endSize=3;startSize=3;" edge="1" parent="ysbMEy50b4-68GegvvOf-154" source="ysbMEy50b4-68GegvvOf-23" target="ysbMEy50b4-68GegvvOf-35">
+        <mxCell id="ysbMEy50b4-68GegvvOf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.505;entryY=0.006;entryDx=0;entryDy=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;entryPerimeter=0;endSize=3;startSize=3;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-23" target="ysbMEy50b4-68GegvvOf-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="20" />
-              <mxPoint x="32" />
-              <mxPoint x="32" y="36" />
-              <mxPoint x="32" y="36" />
+              <mxPoint x="234" y="277" />
+              <mxPoint x="246" y="277" />
+              <mxPoint x="246" y="313" />
+              <mxPoint x="246" y="313" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.506;entryY=0.008;entryDx=0;entryDy=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;entryPerimeter=0;endSize=3;startSize=3;" edge="1" parent="ysbMEy50b4-68GegvvOf-154" source="ysbMEy50b4-68GegvvOf-24" target="ysbMEy50b4-68GegvvOf-35">
+        <mxCell id="ysbMEy50b4-68GegvvOf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.506;entryY=0.008;entryDx=0;entryDy=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;entryPerimeter=0;endSize=3;startSize=3;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-24" target="ysbMEy50b4-68GegvvOf-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="40" />
-              <mxPoint x="32" />
-              <mxPoint x="32" y="30.85714285714286" />
-              <mxPoint x="32" y="30.85714285714286" />
+              <mxPoint x="254" y="277" />
+              <mxPoint x="246" y="277" />
+              <mxPoint x="246" y="307.8571428571429" />
+              <mxPoint x="246" y="307.8571428571429" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;endSize=3;startSize=3;" edge="1" parent="ysbMEy50b4-68GegvvOf-154" source="ysbMEy50b4-68GegvvOf-25" target="ysbMEy50b4-68GegvvOf-35">
+        <mxCell id="ysbMEy50b4-68GegvvOf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;endSize=3;startSize=3;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-25" target="ysbMEy50b4-68GegvvOf-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint />
-              <mxPoint x="32" />
+              <mxPoint x="214" y="277" />
+              <mxPoint x="246" y="277" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.506;entryY=-0.004;entryDx=0;entryDy=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;entryPerimeter=0;endSize=3;startSize=3;" edge="1" parent="ysbMEy50b4-68GegvvOf-154" source="ysbMEy50b4-68GegvvOf-28" target="ysbMEy50b4-68GegvvOf-35">
+        <mxCell id="ysbMEy50b4-68GegvvOf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.506;entryY=-0.004;entryDx=0;entryDy=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;entryPerimeter=0;endSize=3;startSize=3;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-28" target="ysbMEy50b4-68GegvvOf-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="60" />
-              <mxPoint x="32" />
+              <mxPoint x="274" y="277" />
+              <mxPoint x="246" y="277" />
             </Array>
           </mxGeometry>
         </mxCell>
