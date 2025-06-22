@@ -537,7 +537,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=0.084;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#888888;endSize=3;startSize=3;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-156" target="ysbMEy50b4-68GegvvOf-153">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="332" y="380" />
+              <mxPoint x="280" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
