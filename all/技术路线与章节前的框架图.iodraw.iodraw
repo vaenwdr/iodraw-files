@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Wmg-9bcaKSGIvGGTUIqb">
-    <mxGraphModel dx="108" dy="58" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="129" dy="70" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,9 +78,6 @@
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.815;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;endSize=3;startSize=3;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-21" target="ysbMEy50b4-68GegvvOf-99">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-23" value="核心区提取" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="224" y="196.9983618581906" width="15" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-24" value="生境质量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="242" y="196.9983618581906" width="15" height="70" as="geometry" />
@@ -467,9 +464,10 @@
         <mxCell id="ysbMEy50b4-68GegvvOf-153" value="供给结构修复关键空间" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="203" y="394" width="155" height="23.55" as="geometry" />
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;endSize=3;startSize=3;entryX=0.472;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ysbMEy50b4-68GegvvOf-35">
+        <mxCell id="ysbMEy50b4-68GegvvOf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;endSize=3;startSize=3;entryX=0.472;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.523;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-23" target="ysbMEy50b4-68GegvvOf-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="230" y="267" />
               <mxPoint x="230" y="277" />
               <mxPoint x="240" y="277" />
             </Array>
@@ -481,8 +479,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="277" />
-              <mxPoint x="246" y="277" />
-              <mxPoint x="246" y="288" />
+              <mxPoint x="240" y="277" />
+              <mxPoint x="240" y="288" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -509,6 +507,9 @@
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-25" value="斑块连通性" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="204" y="196.9983618581906" width="15" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-23" value="核心区提取" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="224" y="196.9983618581906" width="15" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
