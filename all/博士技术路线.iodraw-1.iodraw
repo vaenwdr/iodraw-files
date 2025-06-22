@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram id="Q0DbVZU_VQKNT2G1ub-v" name="第 1 页">
-    <mxGraphModel dx="2934" dy="4436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1880" dy="2802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -750,6 +750,104 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint as="sourcePoint" />
             <mxPoint y="13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="-600" width="408" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;对象分析：西安城市绿色空间演进特征与问题聚焦&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;fontFamily=宋体;fontSize=12;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-656.63" y="-597" width="401.25" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-3" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=宋体;fontSize=14;fontColor=#F19C99;width=10.806451612903226;endSize=2.0771186440677964;strokeColor=none;endWidth=3.8299617277200655;fillColor=#808080;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-353.3163636363634" y="-461.32000000000005" as="sourcePoint" />
+            <mxPoint x="-353.3163636363634" y="-448.32000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-4" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=宋体;fontSize=14;fontColor=#F19C99;width=10.806451612903226;endSize=2.0771186440677964;strokeColor=none;endWidth=3.8299617277200655;fillColor=#808080;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-557.5663636363633" y="-461.32000000000005" as="sourcePoint" />
+            <mxPoint x="-557.5663636363633" y="-448.32000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#878787;endSize=3;startSize=3;" edge="1" parent="1" source="6wUIa8KJ8QRtrDtnO6Kr-8" target="6wUIa8KJ8QRtrDtnO6Kr-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-558.88" y="-539" />
+              <mxPoint x="-623.88" y="-539" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#878787;endSize=3;startSize=3;" edge="1" parent="1" source="6wUIa8KJ8QRtrDtnO6Kr-8" target="6wUIa8KJ8QRtrDtnO6Kr-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-557.88" y="-530" />
+              <mxPoint x="-557.88" y="-530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#878787;endSize=3;startSize=3;" edge="1" parent="1" source="6wUIa8KJ8QRtrDtnO6Kr-8" target="6wUIa8KJ8QRtrDtnO6Kr-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-557.88" y="-539" />
+              <mxPoint x="-491.88" y="-539" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-8" value="绿色空间的供需演进过程分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;fontStyle=0;strokeColor=#878787;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-652.88" y="-563" width="189" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-9" value="绿色空间现状特征与问题" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;fontStyle=0;strokeColor=#878787;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-448.88" y="-563" width="187" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-10" value="数量与供给能力演进分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;fontStyle=0;strokeColor=#878787;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-651.88" y="-529" width="56" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-11" value="需求变化演进分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;fontStyle=0;strokeColor=#878787;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-585.88" y="-529" width="56" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-12" value="绿色空间现状特征" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;fontStyle=0;strokeColor=#878787;fillColor=#FFFFFF;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-448.88" y="-529" width="56" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-13" value="绿色空间现状问题" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;fontStyle=0;strokeColor=#878787;fillColor=#FFFFFF;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-383.88" y="-529" width="56" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-14" value="相关规划演进分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;fontStyle=0;strokeColor=#878787;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-519.88" y="-529" width="56" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-15" value="主导需求与关键UESs识别" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;fontStyle=0;strokeColor=#878787;fillColor=#FFFFFF;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-316.88" y="-529" width="56" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-420.88" y="-544" width="132" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#878787;endSize=3;startSize=3;" edge="1" parent="6wUIa8KJ8QRtrDtnO6Kr-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" as="sourcePoint" />
+            <mxPoint y="15" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="65" y="5" />
+              <mxPoint y="5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#878787;endSize=3;startSize=3;" edge="1" parent="6wUIa8KJ8QRtrDtnO6Kr-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" as="sourcePoint" />
+            <mxPoint x="66" y="15" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="65" y="15" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6wUIa8KJ8QRtrDtnO6Kr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#878787;endSize=3;startSize=3;" edge="1" parent="6wUIa8KJ8QRtrDtnO6Kr-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" as="sourcePoint" />
+            <mxPoint x="132" y="15" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="65" y="5" />
+              <mxPoint x="132" y="5" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
