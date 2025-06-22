@@ -315,9 +315,6 @@
         <mxCell id="ysbMEy50b4-68GegvvOf-81" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;胁迫度&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=宋体;fontColor=#030303;" vertex="1" parent="1">
           <mxGeometry x="406" y="252.5686063569683" width="46" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-82" value="单元&lt;br&gt;更新&lt;br&gt;潜力" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;fontFamily=宋体;fontColor=#030303;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="504.0043369918412" y="304.2046234481386" as="geometry" />
-        </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-83" value="" style="endArrow=classic;html=1;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=#030303;endSize=3;startSize=3;" edge="1" parent="1" target="ysbMEy50b4-68GegvvOf-76">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="504.5" y="328.84586797066004" as="sourcePoint" />
