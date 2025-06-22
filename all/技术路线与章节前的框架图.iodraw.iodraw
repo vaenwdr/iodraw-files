@@ -74,7 +74,7 @@
           <mxGeometry x="100" y="111.9804400977996" width="92" height="326.0171149144254" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-21" value="潜在廊道" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="304.5" y="345.0268948655257" width="54" height="23.552567237163814" as="geometry" />
+          <mxGeometry x="308" y="345.03" width="50.5" height="23.55" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.815;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;endSize=3;startSize=3;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-21" target="ysbMEy50b4-68GegvvOf-99">
           <mxGeometry relative="1" as="geometry" />
@@ -182,7 +182,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-41" value="阻力面" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="308.5" y="147.9985330073351" width="46" height="24.792176039119806" as="geometry" />
+          <mxGeometry x="312" y="148" width="41" height="24.79" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#828282;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-5" target="ysbMEy50b4-68GegvvOf-41">
           <mxGeometry relative="1" as="geometry">
