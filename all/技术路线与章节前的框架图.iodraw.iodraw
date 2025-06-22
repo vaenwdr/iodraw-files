@@ -540,16 +540,16 @@
           <mxGeometry x="704" y="331.9957457212714" width="132.5" height="23.552567237163814" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-167" value="目标传导" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="704" y="360" width="24" height="30" as="geometry" />
+          <mxGeometry x="704" y="360" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-168" value="边界传导" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="730" y="360" width="24" height="30" as="geometry" />
+          <mxGeometry x="730" y="360" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-169" value="指标管控" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="756" y="360" width="24" height="30" as="geometry" />
+          <mxGeometry x="756" y="360" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-170" value="规则指引" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="782" y="360" width="24" height="30" as="geometry" />
+          <mxGeometry x="782" y="360" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-171" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="730" y="296.0006845965769" width="77" height="34.799315403423066" as="geometry" />
