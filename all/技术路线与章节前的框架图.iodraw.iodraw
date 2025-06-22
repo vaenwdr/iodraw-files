@@ -299,8 +299,8 @@
             <mxPoint x="5.81" y="-1.8699999999999999" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-99" value="供给结构修复关键空间" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="203" y="356" width="155" height="23.55" as="geometry" />
+        <mxCell id="ysbMEy50b4-68GegvvOf-99" value="网络分级" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="203" y="356" width="67" height="23.55" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-128" value="规划响应" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontFamily=宋体;fontSize=14;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="696" y="80.99022004889957" width="148" height="24.792176039119806" as="geometry" />
