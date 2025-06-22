@@ -335,7 +335,7 @@
         <mxCell id="ysbMEy50b4-68GegvvOf-131" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;西安中心城区绿色空间效能调控方案&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="692" y="464.94621026894856" width="148" height="52.06356968215159" as="geometry" />
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-135" value="中环风险结构协同优化单元&lt;div style=&quot;line-height: 6.4px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 6.4px;&quot;&gt;&lt;b&gt;CB-13&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 6.4px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 6.4px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 6.4px;&quot;&gt;存量型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=8;fontStyle=0;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ysbMEy50b4-68GegvvOf-135" value="内环风险结构协同优化单元&lt;div style=&quot;line-height: 6.4px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 6.4px;&quot;&gt;&lt;b&gt;LH-07&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 6.4px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 6.4px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 6.4px;&quot;&gt;存量型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=8;fontStyle=0;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="699" y="217.00000000000003" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;exitX=0.499;exitY=1.041;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="ysbMEy50b4-68GegvvOf-144" target="ysbMEy50b4-68GegvvOf-130" parent="1">
@@ -592,12 +592,11 @@
             <mxPoint x="765" y="321.79999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;exitX=0.592;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="ysbMEy50b4-68GegvvOf-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="ysbMEy50b4-68GegvvOf-176" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="815" y="290" />
-              <mxPoint x="815" y="290" />
-              <mxPoint x="815" y="300" />
+              <mxPoint x="810" y="287" />
+              <mxPoint x="810" y="300" />
               <mxPoint x="765" y="300" />
             </Array>
             <mxPoint x="815.18" y="287.1644498777506" as="sourcePoint" />
