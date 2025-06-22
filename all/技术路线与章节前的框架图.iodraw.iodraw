@@ -115,8 +115,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ysbMEy50b4-68GegvvOf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;endSize=3;startSize=3;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-32" target="ysbMEy50b4-68GegvvOf-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ysbMEy50b4-68GegvvOf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=-0.014;entryDx=0;entryDy=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;endSize=3;startSize=3;entryPerimeter=0;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-32" target="ysbMEy50b4-68GegvvOf-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="287" />
+              <mxPoint x="318" y="287" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-32" value="潜在廊道识别" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=0;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="311" y="225.00000000000003" width="42.5" height="42.15" as="geometry" />
