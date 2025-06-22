@@ -335,6 +335,13 @@
         <mxCell id="ysbMEy50b4-68GegvvOf-131" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;西安中心城区绿色空间效能调控方案&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;labelBorderColor=none;fontStyle=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="692" y="464.94621026894856" width="148" height="52.06356968215159" as="geometry" />
         </mxCell>
+        <mxCell id="ysbMEy50b4-68GegvvOf-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;exitX=0.499;exitY=1.041;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="ysbMEy50b4-68GegvvOf-144" target="ysbMEy50b4-68GegvvOf-130" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="765" y="156.28361858190692" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-144" value="总体规划层级&lt;div&gt;多维梯度管控体系应用&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#A9C4EB;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="699" y="110.99574572127143" width="132.5" height="23.552567237163814" as="geometry" />
         </mxCell>
