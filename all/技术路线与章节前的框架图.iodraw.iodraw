@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Wmg-9bcaKSGIvGGTUIqb">
-    <mxGraphModel dx="458" dy="248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="128" dy="69" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,14 +74,14 @@
           <mxGeometry x="100" y="111.9804400977996" width="92" height="326.0171149144254" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-21" value="潜在廊道、节点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="297" width="77" height="23.55" as="geometry" />
+          <mxGeometry x="280" y="301" width="77" height="23.55" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;endSize=3;startSize=3;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="228" y="359.08" as="targetPoint" />
+            <mxPoint x="228" y="363.08" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="319" y="329.08" />
-              <mxPoint x="228" y="329.08" />
+              <mxPoint x="319" y="333.08" />
+              <mxPoint x="228" y="333.08" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -134,15 +134,15 @@
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;startSize=3;endSize=3;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-35">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="228" y="359.08" as="targetPoint" />
+            <mxPoint x="228" y="363.08" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="228" y="329.08" />
-              <mxPoint x="228" y="329.08" />
+              <mxPoint x="228" y="333.08" />
+              <mxPoint x="228" y="333.08" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-35" value="核心斑块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=10;fontStyle=1;strokeColor=#82b366;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="204.25" y="297" width="65.75" height="23.55" as="geometry" />
+          <mxGeometry x="204.25" y="301" width="65.75" height="23.55" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#828282;strokeWidth=1;fontFamily=宋体;fontSize=12;fontColor=none;endSize=3;startSize=3;" edge="1" parent="1" source="ysbMEy50b4-68GegvvOf-41" target="ysbMEy50b4-68GegvvOf-32">
           <mxGeometry relative="1" as="geometry" />
