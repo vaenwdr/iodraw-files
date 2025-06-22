@@ -172,7 +172,7 @@
           <mxGeometry x="542.5" y="473.94621026894856" width="148" height="52.06356968215159" as="geometry" />
         </mxCell>
         <mxCell id="ysbMEy50b4-68GegvvOf-49" value="关&lt;div&gt;键&lt;/div&gt;&lt;div&gt;空&lt;/div&gt;&lt;div&gt;间&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;控&lt;/div&gt;&lt;div&gt;传&lt;/div&gt;&lt;div&gt;导&lt;/div&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;落&lt;/div&gt;&lt;div&gt;实&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontFamily=宋体;fontSize=8;fontColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=3;startSize=3;labelBackgroundColor=none;strokeColor=#888888;" edge="1" parent="1">
-          <mxGeometry x="0.5057" y="-7" relative="1" as="geometry">
+          <mxGeometry x="-0.5496" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="456" y="430" />
               <mxPoint x="693" y="430" />
